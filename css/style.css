@@ -289,6 +289,7 @@ section#wrap-list-and-comment .tab-content #comment{padding: 50px 0}
 .coment-cream .content-comment{background-color: #EDEAE5 !important;}
 .coment-cream  .group-post-comment .form-comment textarea{background-color: #EDEAE5;}
 .coment-cream .emojionearea, .emojionearea.form-control{background-color: #EDEAE5;}
+.coment-cream .group-post-comment{background-color: transparent;}
 @keyframes flicker{
     0% {background-color: #d05027;}
     50% {background-color: #ce7527;}
